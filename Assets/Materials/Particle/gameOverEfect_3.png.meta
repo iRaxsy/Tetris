@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 052a8ba4b2690a64293e9bf2cb16601f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1072063479785628851
+    second: gameOverMat2_0
+  - first:
+      213: -2374341151136740589
+    second: gameOverMat2_1
+  - first:
+      213: -6365063945783343579
+    second: gameOverMat2_2
+  - first:
+      213: 8522317275167578861
+    second: gameOverMat2_3
+  - first:
+      213: -8278857268351346361
+    second: gameOverMat2_4
+  - first:
+      213: -3010979166697090877
+    second: gameOverMat2_5
+  - first:
+      213: -6106745324758772281
+    second: gameOverMat2_6
+  - first:
+      213: -7091381326168525542
+    second: gameOverMat2_7
+  - first:
+      213: 6962192439779433129
+    second: gameOverMat2_8
+  - first:
+      213: -1140620783752700239
+    second: gameOverMat2_9
+  - first:
+      213: 3489976196684216730
+    second: gameOverMat2_10
+  - first:
+      213: -2288261316434453374
+    second: gameOverMat2_11
+  - first:
+      213: -580588412128832951
+    second: gameOverMat2_12
+  - first:
+      213: -9160538650940514864
+    second: gameOverMat2_13
+  - first:
+      213: 6237930930286223857
+    second: gameOverMat2_14
+  - first:
+      213: -468865530157922188
+    second: gameOverMat2_15
+  - first:
+      213: 1083023320978192711
+    second: gameOverMat2_16
+  - first:
+      213: 9056858683190391019
+    second: gameOverMat2_17
+  - first:
+      213: -4781993371649555722
+    second: gameOverMat2_18
+  - first:
+      213: -8304563629500438611
+    second: gameOverMat2_19
+  - first:
+      213: 220224232738434818
+    second: gameOverMat2_20
+  - first:
+      213: 1799817105747753749
+    second: gameOverMat2_21
+  - first:
+      213: -7866493651622066375
+    second: gameOverMat2_22
+  - first:
+      213: 698686560483227091
+    second: gameOverMat2_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gameOverMat2_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 104
+        width: 882
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b55b6f1f34f11f0800000000000000
+      internalID: -1072063479785628851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 895
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b07e68d45ac0fd0800000000000000
+      internalID: -2374341151136740589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 887
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52600fa9010caa7a0800000000000000
+      internalID: -6365063945783343579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 615
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dead989986a554670800000000000000
+      internalID: 8522317275167578861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 653
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749d1cd7d279b1d80800000000000000
+      internalID: -8278857268351346361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 443
+        width: 60
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c01be6966ad636d0800000000000000
+      internalID: -3010979166697090877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_6
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 615
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5d9f76b7b704ba0800000000000000
+      internalID: -6106745324758772281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_7
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 591
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15f2ee614a569d90800000000000000
+      internalID: -7091381326168525542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_8
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 580
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa96fef22dae9060800000000000000
+      internalID: 6962192439779433129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_9
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 432
+        width: 14
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be1ef0c073bb20f0800000000000000
+      internalID: -1140620783752700239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 417
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a997ee53cd2ee6030800000000000000
+      internalID: 3489976196684216730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_11
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 354
+        width: 11
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c18a8d4767e30e0800000000000000
+      internalID: -2288261316434453374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 242
+        width: 42
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9425a5e4ae551f7f0800000000000000
+      internalID: -580588412128832951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 396
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd547fa1aa3fd080800000000000000
+      internalID: -9160538650940514864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 92
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1e1219125919650800000000000000
+      internalID: 6237930930286223857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 95
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4780383d8414e79f0800000000000000
+      internalID: -468865530157922188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 101
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7497e5ae8fba70f00800000000000000
+      internalID: 1083023320978192711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 83
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0b970bcfc60bd70800000000000000
+      internalID: 9056858683190391019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 79
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f24e845d52f2adb0800000000000000
+      internalID: -4781993371649555722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 79
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da76ff0e06340cc80800000000000000
+      internalID: -8304563629500438611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 90
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fae4bd5c46e0300800000000000000
+      internalID: 220224232738434818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 75
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b34c03f1c3af810800000000000000
+      internalID: 1799817105747753749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 72
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937833bc3b994d290800000000000000
+      internalID: -7866493651622066375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOverMat2_23
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 72
+        width: 67
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d531f699bb32b900800000000000000
+      internalID: 698686560483227091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gameOverMat2_0: -1072063479785628851
+      gameOverMat2_1: -2374341151136740589
+      gameOverMat2_10: 3489976196684216730
+      gameOverMat2_11: -2288261316434453374
+      gameOverMat2_12: -580588412128832951
+      gameOverMat2_13: -9160538650940514864
+      gameOverMat2_14: 6237930930286223857
+      gameOverMat2_15: -468865530157922188
+      gameOverMat2_16: 1083023320978192711
+      gameOverMat2_17: 9056858683190391019
+      gameOverMat2_18: -4781993371649555722
+      gameOverMat2_19: -8304563629500438611
+      gameOverMat2_2: -6365063945783343579
+      gameOverMat2_20: 220224232738434818
+      gameOverMat2_21: 1799817105747753749
+      gameOverMat2_22: -7866493651622066375
+      gameOverMat2_23: 698686560483227091
+      gameOverMat2_3: 8522317275167578861
+      gameOverMat2_4: -8278857268351346361
+      gameOverMat2_5: -3010979166697090877
+      gameOverMat2_6: -6106745324758772281
+      gameOverMat2_7: -7091381326168525542
+      gameOverMat2_8: 6962192439779433129
+      gameOverMat2_9: -1140620783752700239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
