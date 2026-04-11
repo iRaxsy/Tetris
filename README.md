@@ -56,8 +56,7 @@ Unity Tetris, klasik Tetris mekaniklerini modern bir görsellik ve akıcı bir o
 │   ├── Prefabs/            # Bloklar ve oyun objeleri
 │   ├── Sounds/             # Ses FX ve müzikler
 │   └── Sprites/            # Görsel varlıklar
-├── ProjectSettings/        # Proje sürüm ve paket ayarları
-└── README.md               # Proje dökümantasyonu
+└── ProjectSettings/        # Proje sürüm ve paket ayarları
 ```
 
 ## 📜 Lisans
