@@ -1,4 +1,4 @@
-# 🧱 Unity Tetris - Klasik Oyunun Modern Yorumu
+# 🧱 Tetris
 
 Unity Tetris, klasik Tetris mekaniklerini modern bir görsellik ve akıcı bir oynanışla harmanlayan, Unity 6 motoru ile geliştirilmiş yüksek performanslı bir oyun projesidir. Hem geliştiriciler hem de oyuncular için temiz kod yapısı ve zengin özellik seti sunar.
 
